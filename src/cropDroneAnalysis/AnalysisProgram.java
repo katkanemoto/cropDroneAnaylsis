@@ -1,6 +1,7 @@
 /**************************************************\
  * Crop Drone Analysis
  * 
+ * Project Lead: Kathy Kanemoto
  * write intro stuff here
  * 
  * 
